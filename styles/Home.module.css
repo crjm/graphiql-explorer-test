@@ -127,3 +127,7 @@
     filter: invert(1);
   }
 }
+
+.graphiql-container{
+  min-height: 100vh !important;
+}

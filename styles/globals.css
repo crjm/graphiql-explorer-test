@@ -24,3 +24,6 @@ a {
     background: black;
   }
 }
+.graphiql-container{
+  min-height: 100vh !important;
+}
